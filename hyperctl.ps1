@@ -451,6 +451,7 @@ package_upgrade: true
 packages:
   - apt-transport-https
   - ca-certificates
+  - curl
   - linux-tools-virtual
   - linux-cloud-tools-virtual
   - cifs-utils
